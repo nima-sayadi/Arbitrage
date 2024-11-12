@@ -5,6 +5,3 @@ of different currencies and then buy,transfer & sell and ultimately make a profi
 of any framework. Pure PHP with high standards in terms of coding.
 
 This file is only to demonstrate to way I code and the whole project is much larger.
-
-Nima Sayadi
-+49 1523 6240128
